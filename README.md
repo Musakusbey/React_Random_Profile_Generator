@@ -3,4 +3,4 @@
 
 In this project, our page creates random users.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Bu projede sayfamız random kullanıcı oluşturuyor.
+Bu projede sayfamız random kullanıcı oluşturuyor..
